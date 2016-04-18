@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Skitourenwoche]]></title>
         <description><![CDATA[Skitourenwoche]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/skitourenwoche/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:03:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 17:04:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/skitourenwoche/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35e433f0-2fd9-47d8-b062-5323fb58c342.jpg">]]></description>
-            <link>undefined2006-jenatsch/index.html</link>
+            <link>https://thegrid.ai/skitourenwoche/2006-jenatsch/index.html</link>
             <guid isPermaLink="false">b589cd1f-a0b6-4714-8758-ebc663860ec2</guid>
-            <pubDate>Mon, 18 Apr 2016 17:03:22 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 17:03:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
