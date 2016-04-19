@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Skitourenwoche]]></title>
+        <description><![CDATA[Skitourenwoche]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Apr 2016 02:16:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016_Zufallhütte_Trailer]]></title>
+            <description><![CDATA[<article><h1>2016_Zufallhütte_Trailer</h1><p>Ein kleiner Vorgeschmack...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7e1651f7ae441e09a6eecc69dab0ce1aaf5a8bf.jpg"></article>]]></description>
+            <link>https://vimeo.com/163162567</link>
+            <guid isPermaLink="false">979158a8-70b7-4317-aeb1-2d1a108297d9</guid>
+            <pubDate>Tue, 19 Apr 2016 02:16:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
