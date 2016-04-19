@@ -1,7 +1,7 @@
 name: Skitourenwoche
 favicon: null
-layout_spectrum: 0.20086380140855908
-typography_spectrum: 0.5047047515399754
+layout_spectrum: 0
+typography_spectrum: 0.81803
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.7909743445925415
+  brandStrength: 0.875
   lightness: 0.32522582169622183
   saturation: 0.764219032600522
   rhythmicContrast: 0.7224305486306548
