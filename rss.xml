@@ -4,8 +4,15 @@
         <description><![CDATA[Skitourenwoche]]></description>
         <link>https://thegrid.ai/skitourenwoche/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 15:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:12:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skitourenwoche/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2007 Sertig]]></title>
+            <description><![CDATA[<article><h1>2007 Sertig</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/159cfa2d6d5ee8a906f588eaa969f1d9ef847b6b.jpg"></article>]]></description>
+            <link>https://vimeo.com/147104746</link>
+            <guid isPermaLink="false">b17361d5-f638-4db9-b83b-0a3ca21659d7</guid>
+            <pubDate>Wed, 20 Apr 2016 16:11:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2007 Sertig]]></title>
             <description><![CDATA[<article><h1>2007 Sertig</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f0cc5f3435739d5b46cc435b2d9b1a2babb6157.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/assasimio/sets/72157667295256836</link>
             <guid isPermaLink="false">754b8efb-0ed5-487c-947c-9c4f54c8253a</guid>
             <pubDate>Wed, 20 Apr 2016 14:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1990 Val Mora]]></title>
-            <description><![CDATA[<article><h1>1990 Val Mora</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/669899b81937c33510ef2d94e8f4f59731b13cab.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/assasimio/sets/72157667294990916</link>
-            <guid isPermaLink="false">4b42d92c-153d-4c86-8d19-7aaf6cfbb713</guid>
-            <pubDate>Wed, 20 Apr 2016 14:36:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
