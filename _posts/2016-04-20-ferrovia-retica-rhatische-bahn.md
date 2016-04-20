@@ -1,12 +1,16 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.flickr.com/photos/carlobonari/albums/72157612542949731'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-04-20T13:53:19.511Z'
+dateModified: '2016-04-20T13:53:19.002Z'
 author: []
 related: []
-publisher:
-  url: 'http://flickr.com/'
-  name: Flickr
-  favicon: 'https://s.yimg.com/pw/favicon.ico'
-  domain: www.flickr.com
-keywords: []
 app_links:
   - url: 'flickr://flickr.com/photos/carlobonari/albums/72157612542949731'
     type: ios
@@ -18,16 +22,15 @@ app_links:
     type: iphone
     name: Flickr
     id: '328407587'
-isBasedOnUrl: 'https://www.flickr.com/photos/carlobonari/albums/72157612542949731'
 title: Ferrovia Retica - Rhatische Bahn
-datePublished: '2016-04-20T13:46:06.427Z'
-dateModified: '2016-04-20T13:42:20.600Z'
-description: ''
 sourcePath: _posts/2016-04-20-ferrovia-retica-rhatische-bahn.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Flickr
+  domain: www.flickr.com
+  url: 'http://flickr.com/'
+  favicon: 'https://s.yimg.com/pw/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
