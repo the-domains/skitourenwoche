@@ -4,8 +4,15 @@
         <description><![CDATA[Skitourenwoche]]></description>
         <link>https://thegrid.ai/skitourenwoche/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:47:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skitourenwoche/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2015 Bivio]]></title>
+            <description><![CDATA[<article><h1>2015 Bivio</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe2ed89c9cc2466e5873e0dba37b332193db2904.jpg"></article>]]></description>
+            <link>https://vimeo.com/147366065</link>
+            <guid isPermaLink="false">88335747-9e0d-4b93-9343-ff6523bf7668</guid>
+            <pubDate>Wed, 20 Apr 2016 16:46:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2014 Saoseo]]></title>
             <description><![CDATA[<article><h1>2014 Saoseo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c55160ebcbf95164896350fbd29ab77e1881bc11.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/147291295</link>
             <guid isPermaLink="false">0196c948-937e-480e-b358-6cc953706e7c</guid>
             <pubDate>Wed, 20 Apr 2016 16:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2007 Sertig]]></title>
-            <description><![CDATA[<article><h1>2007 Sertig</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/159cfa2d6d5ee8a906f588eaa969f1d9ef847b6b.jpg"></article>]]></description>
-            <link>https://vimeo.com/147104746</link>
-            <guid isPermaLink="false">b17361d5-f638-4db9-b83b-0a3ca21659d7</guid>
-            <pubDate>Wed, 20 Apr 2016 16:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
