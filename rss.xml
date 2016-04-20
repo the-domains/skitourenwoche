@@ -4,8 +4,15 @@
         <description><![CDATA[Skitourenwoche]]></description>
         <link>https://thegrid.ai/skitourenwoche/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:48:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skitourenwoche/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 Zufallhütte]]></title>
+            <description><![CDATA[<article><h1>2016 Zufallhütte</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f0f1a24-99d0-424d-9e0d-a4e018c47a9c.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/assasimio/albums/72157667255462811</link>
+            <guid isPermaLink="false">fe830ba7-448b-470a-95dc-83883c487bd6</guid>
+            <pubDate>Wed, 20 Apr 2016 16:47:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2015 Bivio]]></title>
             <description><![CDATA[<article><h1>2015 Bivio</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe2ed89c9cc2466e5873e0dba37b332193db2904.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/148111411</link>
             <guid isPermaLink="false">834bdb6c-e9d6-402b-9acd-d2511988aed4</guid>
             <pubDate>Wed, 20 Apr 2016 16:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2009 S-Charl]]></title>
-            <description><![CDATA[<article><h1>2009 S-Charl</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8afb439314216071cf21e48db93a2ef2acfd4d9.jpg"></article>]]></description>
-            <link>https://vimeo.com/147291295</link>
-            <guid isPermaLink="false">0196c948-937e-480e-b358-6cc953706e7c</guid>
-            <pubDate>Wed, 20 Apr 2016 16:12:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
