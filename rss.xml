@@ -4,8 +4,15 @@
         <description><![CDATA[Skitourenwoche]]></description>
         <link>https://thegrid.ai/skitourenwoche/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:28:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skitourenwoche/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2011 Prariond]]></title>
+            <description><![CDATA[<article><h1>2011 Prariond</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47659f646db51c8a842bbbe5cbac5047dd54c1e3.jpg"></article>]]></description>
+            <link>https://vimeo.com/147420371</link>
+            <guid isPermaLink="false">ad3cf540-8383-4f96-8a6c-f6eacc0690fb</guid>
+            <pubDate>Wed, 20 Apr 2016 16:27:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2011 Prariond]]></title>
             <description><![CDATA[<article><h1>2011 Prariond</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/619a331c-c08c-439e-9e45-a7ad215d4662.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/assasimio/sets/72157667296190226</link>
             <guid isPermaLink="false">afaa5849-f878-4019-b6e8-3d73b2788601</guid>
             <pubDate>Wed, 20 Apr 2016 14:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2003 Steingletscher]]></title>
-            <description><![CDATA[<article><h1>2003 Steingletscher</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1eb9752c-e503-49dd-947f-5c73c3aaee1a.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/assasimio/sets/72157667252879881</link>
-            <guid isPermaLink="false">ab004188-e81d-4ebc-aad0-c6aaa575f6b5</guid>
-            <pubDate>Wed, 20 Apr 2016 14:48:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
