@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T15:11:35.725Z'
-dateModified: '2016-04-20T15:11:26.105Z'
+datePublished: '2016-04-20T15:15:46.233Z'
+dateModified: '2016-04-20T15:15:42.048Z'
 author:
   - name: ''
     url: ''
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Skitourenwoche_2006_Jenatsch
+sourcePath: _posts/2016-04-20-skitourenwoche_2006_jenatsch.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-04-20-skitourenwoche_2006_jenatsch.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
