@@ -1,19 +1,4 @@
-name: Skitourenwoche
-favicon: null
-layout_spectrum: 0.4329
 typography_spectrum: 0.69616
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-58154788-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#92a0b9'
@@ -25,4 +10,20 @@ color:
   lightness: 0.875
   saturation: 0.25
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4329
+analytics:
+  google: UA-58154788-2
+  facebook: null
+  twitter: null
+name: Skitourenwoche
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Skitourenwoche
 purpose: []
